@@ -133,3 +133,7 @@ This workshop is currently valid for ML.NET v1.3.1
 - [ML.NET Samples](https://github.com/dotnet/machinelearning-samples)
 - [Azure Stream Analytics](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-introduction)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/e-riddle/mldotnet-real-time-data-streaming-workshop/master?filepath=src%2Fmachine-learning%2Fjupyter%2Ffraudulent-classifier-mlnet.ipynb)
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/e-riddle/mldotnet-real-time-data-streaming-workshop/master?filepath=src%2Fmachine-learning%2Fjupyter%2Ffraudulent-classifier-mlnet.ipynb
